@@ -3,7 +3,7 @@
 // @namespace    https://github.com/JeroBianco/Twitch-powerup-hide
 // @updateURL    https://github.com/JeroBianco/Twitch-powerup-hide/blob/master/Hide%20Power-Ups-2024-06-18.user.js
 // @downloadURL  https://github.com/JeroBianco/Twitch-powerup-hide/blob/master/Hide%20Power-Ups-2024-06-18.user.js
-// @version      1.0
+// @version      1.1
 // @description  Remove the shitty power ups from the rewards section on twitch chat
 // @author       JeroBianco
 // @match        https://www.twitch.tv/*
